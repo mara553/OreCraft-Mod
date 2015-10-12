@@ -1,0 +1,19 @@
+[
+{
+  "modid": "OCM",
+  "name": "OreCraft Mod",
+  "version": "1.0.0",
+  "mcversion": "1.8"
+  "description": "Ores, Tools, Weapons, And More!
+
+<plugins>
+
+Supporters: *null",
+  "url": "*null",
+  "credits": "*null",
+  "authorList": [ "MaraDox" ],
+  "dependencies": [
+     "McCore"
+  ]
+}
+]
